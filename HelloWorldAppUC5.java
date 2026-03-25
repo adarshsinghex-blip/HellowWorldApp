@@ -6,7 +6,7 @@ public class HelloWorldAppUC5 {
         Scanner sc = new Scanner(System.in);
 
         System.out.println("========================================");
-        System.out.println("Greeting Application - UC5");
+        System.out.println("Application - UC5");
         System.out.println("========================================");
 
         System.out.print("Enter number of names: ");
